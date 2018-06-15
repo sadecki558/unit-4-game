@@ -1,0 +1,48 @@
+
+#gametitle{
+    margin: 1%;
+    width: 30%;
+    float: none;
+    padding: 2%;
+    background-color: burlywood;
+}
+
+body h1 {
+    color: white;
+    font-size: 5em;
+    
+}
+
+#rules {
+    background: peachpuff;
+
+}
+
+section p{
+    color: green;
+}
+
+#scoreboard {
+    background-color: blue;
+}
+
+#scoreboard2{
+    background-color: darkgreen;
+}
+
+body {
+    background-image: url("../images/jewel-background.png");
+}
+
+
+.row {
+    float: none;
+    margin: auto 0;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    margin: auto;
+}
+
